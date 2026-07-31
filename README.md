@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhradeepkundu270305/subhradeepkundu270305/main/light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhradeepkundu270305/subhradeepkundu270305/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhradeepkundu270305/subhradeepkundu270305/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhradeepkundu270305/subhradeepkundu270305/main/light.svg">
   <img alt="Subhradeep Kundu" src="https://raw.githubusercontent.com/subhradeepkundu270305/subhradeepkundu270305/main/light.svg">
 </picture>
 
