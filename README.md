@@ -31,12 +31,12 @@
 ## Featured Projects
 
 <div align="center">
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=get-me-a-chai&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Get Me a Chai"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=CHAT-APP&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Chat App"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=DeepMind-Arii&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="DeepMind-Arii"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=SPOTIFY-CLONE&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Spotify Clone"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=TASK-MANAGER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Task Manager"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/pin/?username=subhradeepkundu270305&repo=ROUND-ROBIN-LOAD-BALANCER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Round Robin Load Balancer"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=get-me-a-chai&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Get Me a Chai"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=CHAT-APP&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Chat App"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=DeepMind-Arii&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="DeepMind-Arii"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=SPOTIFY-CLONE&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Spotify Clone"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=TASK-MANAGER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Task Manager"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=ROUND-ROBIN-LOAD-BALANCER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Round Robin Load Balancer"/>
 </div>
 
 > Swap `github-readme-stats-ruby-eight-70.vercel.app` for your self-hosted stats domain from Phase 2 of the checklist below — these pin cards use the same instance as the stats cards.
